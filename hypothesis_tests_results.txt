@@ -1,0 +1,19 @@
+
+HYPOTHESIS TEST RESULTS
+
+1. T-Test (East vs West Sales)
+t-statistic: 2.0202
+p-value: 0.0496
+Result: SIGNIFICANT
+
+2. ANOVA Test (Sales by Region)
+F-statistic: 2.1644
+p-value: 0.0972
+Result: NOT SIGNIFICANT
+
+3. Correlation Analysis
+Correlation (Quantity vs Total Sales): 0.6881
+
+4. Regression Analysis
+R-squared: 0.4735
+p-value: 0.0000
